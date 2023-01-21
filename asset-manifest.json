@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84655fc3.css",
+    "main.js": "/static/js/main.a1538121.js",
+    "static/media/starwars.jpg": "/static/media/starwars.f93e68a7c4c78ea450ae.jpg",
+    "static/media/youtube.jpg": "/static/media/youtube.ec961e1e375ec95245cb.jpg",
+    "static/media/airbnb_image.jfif": "/static/media/airbnb_image.ff35dd66af9d157e09f4.jfif",
+    "static/media/comingsoon.jpg": "/static/media/comingsoon.3b4c93fd5d70d2c25416.jpg",
+    "static/media/badrkhouzima01.2023.pdf": "/static/media/badrkhouzima01.2023.1e44152c1de3ba87f94b.pdf",
+    "static/media/sass.png": "/static/media/sass.d6fc8e612b0737823fb3.png",
+    "static/media/react.png": "/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/git.png": "/static/media/git.bad2b1118eff814bb319.png",
+    "static/media/vue.png": "/static/media/vue.77aae5bf250fb6e6152d.png",
+    "static/media/github.png": "/static/media/github.553c66159c5672f25df6.png",
+    "static/media/js.png": "/static/media/js.38323140666580081f57.png",
+    "static/media/html.png": "/static/media/html.68d4e6f4c86af6b75def.png",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/i.webp": "/static/media/i.bd304dfbd9d480ccaa93.webp",
+    "static/media/B2logo.svg": "/static/media/B2logo.1e7113b93542909be008885c314e8e17.svg",
+    "index.html": "/index.html",
+    "main.84655fc3.css.map": "/static/css/main.84655fc3.css.map",
+    "main.a1538121.js.map": "/static/js/main.a1538121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84655fc3.css",
+    "static/js/main.a1538121.js"
+  ]
+}
