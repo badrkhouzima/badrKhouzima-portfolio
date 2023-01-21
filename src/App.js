@@ -4,7 +4,7 @@ import LogoName from "./components/LogoName";
 import Resume from "./components/Resume";
 
 import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 function App() {
   const [toggle, setToggle] = useState(false);
   const [loading, setLoading] = useState(true);
@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           {loading && <Route path="/" element={<LogoName />} />}
           <Route
@@ -27,7 +27,7 @@ function App() {
           />
           <Route path="/resume.pdf" element={<Resume />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
