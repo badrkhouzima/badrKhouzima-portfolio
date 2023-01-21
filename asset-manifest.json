@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/badrKhouzima-portfolio/static/css/main.84655fc3.css",
-    "main.js": "/badrKhouzima-portfolio/static/js/main.3548c31d.js",
+    "main.js": "/badrKhouzima-portfolio/static/js/main.68b1880e.js",
     "static/media/starwars.jpg": "/badrKhouzima-portfolio/static/media/starwars.f93e68a7c4c78ea450ae.jpg",
     "static/media/youtube.jpg": "/badrKhouzima-portfolio/static/media/youtube.ec961e1e375ec95245cb.jpg",
     "static/media/airbnb_image.jfif": "/badrKhouzima-portfolio/static/media/airbnb_image.ff35dd66af9d157e09f4.jfif",
@@ -20,10 +20,10 @@
     "static/media/B2logo.svg": "/badrKhouzima-portfolio/static/media/B2logo.1e7113b93542909be008885c314e8e17.svg",
     "index.html": "/badrKhouzima-portfolio/index.html",
     "main.84655fc3.css.map": "/badrKhouzima-portfolio/static/css/main.84655fc3.css.map",
-    "main.3548c31d.js.map": "/badrKhouzima-portfolio/static/js/main.3548c31d.js.map"
+    "main.68b1880e.js.map": "/badrKhouzima-portfolio/static/js/main.68b1880e.js.map"
   },
   "entrypoints": [
     "static/css/main.84655fc3.css",
-    "static/js/main.3548c31d.js"
+    "static/js/main.68b1880e.js"
   ]
 }
